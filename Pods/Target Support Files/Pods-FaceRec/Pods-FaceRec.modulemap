@@ -1,0 +1,6 @@
+framework module Pods_FaceRec {
+  umbrella header "Pods-FaceRec-umbrella.h"
+
+  export *
+  module * { export * }
+}
