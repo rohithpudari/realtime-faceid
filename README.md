@@ -1,6 +1,9 @@
 # realtime-faceid
 
 FaceID
+![License](https://img.shields.io/github/license/Rohith-hacker/realtime-faceid)
+![Issues](	https://img.shields.io/github/issues/Rohith-hacker/realtime-faceid)
+
 This is an implementation of face detector and recognizer which can identify the face of the person showing on a IOS camera.
 
 Image preprocessing: face detection, alignment and resizing. Built a database containing embeddings of identity images Computed euclidean distance of embeddings between tested and identity faces to perform identity recognition image
