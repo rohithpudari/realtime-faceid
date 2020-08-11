@@ -1,8 +1,9 @@
 # realtime-faceid
 
-FaceID
 ![License](https://img.shields.io/github/license/Rohith-hacker/realtime-faceid)
 ![Issues](	https://img.shields.io/github/issues/Rohith-hacker/realtime-faceid)
+
+FaceID
 
 This is an implementation of face detector and recognizer which can identify the face of the person showing on a IOS camera.
 
